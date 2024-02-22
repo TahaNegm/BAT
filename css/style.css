@@ -235,7 +235,7 @@ body {
     }
 
     .carousel-inner img {
-        height: 75vh;
+        height: 55vh;
         border-radius: 30px;
     }
 
@@ -244,6 +244,48 @@ body {
         width: 100%;
         background: radial-gradient(circle at 115.9% 38.2%, rgb(255, 255, 255) 0%, rgba(255, 174, 0, 0.205) 15.9%, rgb(255, 193, 77) 15.9%, rgb(255, 199, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
 
+
+    }
+
+    .con .container7 {
+        width: 100%;
+        height: 50vh;
+        background-image: url(../imge/design-1708424083344-1.png);
+        background-size: cover;
+        background-position: center;
+        border-radius: 15px;
+        transition: 0.8s;
+    }
+
+    .con .container7:hover {
+        transition: 1s;
+        width: 100%;
+        height: 50vh;
+        background-image: url(../imge/design-1708424083344-2.png);
+        background-size: cover;
+        background-position: center;
+        border-radius: 15px;
+        transition: 0.8s;
+    }
+
+
+    .con .container9 {
+        width: 100%;
+        height: 50vh;
+        background-image: url(../imge/design-1708425093842-1.png);
+        background-size: cover;
+        background-position: left;
+        border-radius: 15px;
+        transform: 0.8s;
+    }
+
+    .con .container9:hover {
+        transition: 0.7s;
+        width: 100%;
+        height: 50vh;
+        background-image: url(../imge/design-1708425093842-2.png);
+        background-size: cover;
+        border-radius: 15px;
 
     }
 
@@ -631,7 +673,7 @@ body {
     text-align: center;
 }
 
-.c a{
+.c a {
     text-decoration: none;
 }
 
