@@ -73,17 +73,7 @@ body {
 
 
 
-
-.con {
-    width: 70%;
-    margin: auto;
-    margin-top: 20px;
-    margin-right: 470px;
-
-}
-
 .carousel-inner img {
-    height: 80vh;
     border-radius: 30px;
 }
 
@@ -112,12 +102,6 @@ body {
         font-size: 25px;
     }
 
-    
-
-    .carousel-inner img {
-        height: 70vh;
-        border-radius: 30px;
-    }
 
     body {
         height: 200vh;
@@ -126,7 +110,6 @@ body {
 
 
     }
-
 
 }
 
@@ -139,18 +122,9 @@ body {
         margin-right: -20px;
     }
 
-
-
     .links li a i {
         font-size: 35px;
         margin-right: 15px;
-    }
-
-   
-
-    .carousel-inner img {
-        height: 70vh;
-        border-radius: 30px;
     }
 
     body {
@@ -172,18 +146,9 @@ body {
         margin-right: 20px;
     }
 
-
-
     .links li a i {
         font-size: 30px;
         margin-right: 40px;
-    }
-
-    
-
-    .carousel-inner img {
-        height: 60vh;
-        border-radius: 30px;
     }
 
     body {
@@ -211,12 +176,9 @@ body {
         margin-right: 40px;
     }
 
-    
 
-    .carousel-inner img {
-        height: 80vh;
-        border-radius: 30px;
-    }
+
+
 
     body {
         height: 200vh;
@@ -287,12 +249,6 @@ body {
 
     }
 
-   
-
-    .carousel-inner img {
-        height: 65vh;
-        border-radius: 30px;
-    }
 
     body {
         height: 200vh;
@@ -321,7 +277,6 @@ body {
         border-radius: 15px;
         transition: 0.8s;
     }
-
 
     .container .container9 {
         width: 100%;
@@ -353,19 +308,10 @@ body {
         margin-right: 10px;
     }
 
-
-
     .links li a i {
         font-size: 25px;
 
     }
-
-
-    .carousel-inner img {
-        height: 40vh;
-        border-radius: 30px;
-    }
-
 
     .container .container7 {
         transition: 1s;
@@ -406,7 +352,6 @@ body {
         border-radius: 15px;
 
     }
-
 
 }
 
